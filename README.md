@@ -1,6 +1,6 @@
 # Alaeddine's GitHub Profile
-![png-transparent-pixel-cat-thumbnail](https://github.com/user-attachments/assets/34e117eb-8d4b-47f4-801c-6faebdcd1a75)
 
+![png-transparent-snorlax-pixel-art-pokemon-pokemon-mammal-cat-like-mammal-carnivoran-thumbnail](https://github.com/user-attachments/assets/daedb1b3-a69a-4762-9408-7fa25afd89d2)
 
 Hello, I'm **Alaeddine**, a third-year CS student at **EMSI LES ORANGERS CASABLANCA**.  
 I’m a **math enthusiast** and passionate about **coding**. Currently, I'm interested in diving into **C++** and **Python**, and I can’t wait to start learning **GoLang** soon!  
