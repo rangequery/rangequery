@@ -1,5 +1,3 @@
-# Alaeddine's GitHub Profile
-
 
 
 Hello, I'm **Alaeddine**, a 4th-year engineering student at **EMSI LES ORANGERS CASABLANCA**.  
